@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning CS at Hochschule Fulda.
+- ⚡ Fun fact: Bats are the only mammal that can actually fly.
+
 <!--
 **ezzcodeezzlife/ezzcodeezzlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
