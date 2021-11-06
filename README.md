@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm Fabi</h1>
+<h1 align="center">Hi 👋, I'm Fabi</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzcodeezzlife&label=Profile%20views&color=0e75b6&style=flat" alt="ezzcodeezzlife" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/69864679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="69864679" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14813794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14813794" height="30" width="40" /></a>
 <a href="https://instagram.com/fabi.stehle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabi.stehle" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/fabian-stehle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/fabian-stehle" height="30" width="40" /></a>
+<a href="https://www.behance.net/fabian-stehle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fabian-stehle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
