@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabi</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzcodeezzlife&label=Profile%20views&color=0e75b6&style=flat" alt="ezzcodeezzlife" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/14813794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14813794" height="30" width="40" /></a>
@@ -18,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezzcodeezzlife&show_icons=true&locale=en" alt="ezzcodeezzlife" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzcodeezzlife&" alt="ezzcodeezzlife" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzcodeezzlife&label=Profile%20views&color=0e75b6&style=flat" alt="ezzcodeezzlife" /> </p>
+
