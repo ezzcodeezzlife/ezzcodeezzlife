@@ -16,5 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezzcodeezzlife&" alt="ezzcodeezzlife" /></p>
 
+ ![Snake animation](https://github.com/ezzcodeezzlife/ezzcodeezzlife/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzcodeezzlife&label=Profile%20views&color=0e75b6&style=flat" alt="ezzcodeezzlife" /> </p>
 
