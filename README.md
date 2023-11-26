@@ -15,7 +15,6 @@
 - Tools & Technologies: Git, Heroku, MongoDB, MySQL, PostgreSQL, TensorFlow, Selenium
 - Design & Development: Arduino, Blender, Bootstrap, Photoshop
 
-## GitHub Stats
 ![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzcodeezzlife&show_icons=true&theme=radical)
 
 ## GitHub Streak
