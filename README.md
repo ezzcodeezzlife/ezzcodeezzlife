@@ -7,7 +7,6 @@
 
 ## Connect with Me
 - LinkedIn: [fabianstehle](https://www.linkedin.com/in/fabianstehle)
-- StackOverflow: [fabi.s](https://stackoverflow.com/users/14813794/fabi-s)
 
 ## My Expertise
 - Languages: TypeScript, Python
