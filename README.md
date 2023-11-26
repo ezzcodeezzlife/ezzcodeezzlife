@@ -11,8 +11,8 @@
 
 ## My Expertise
 - Languages: TypeScript, Python
-- Frameworks: React, Node.js, Next.js
-- Tools & Technologies: Git, MongoDB, MySQL, PostgreSQL
+- Frameworks: React, Node.js, Next.js, FastAPI, Langchain
+- Tools & Technologies: LLMs, Git, MongoDB, MySQL, PostgreSQL
 
 ![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzcodeezzlife&show_icons=true&theme=radical)
 
