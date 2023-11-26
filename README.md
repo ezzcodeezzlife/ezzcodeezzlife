@@ -1,7 +1,7 @@
 # Hello, I'm Fabi! 👋
 
 ## About Me
-👨‍💻 A Devoted Developer from Germany
+👨‍💻 Developer
 🌐 Focused on creating impactful and innovative software solutions
 🤝 Open for collaboration and exciting projects
 
