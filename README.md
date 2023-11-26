@@ -2,7 +2,7 @@
 
 ## About Me
 👨‍💻 Developer
-🌐 Focused on creating impactful and innovative software solutions
+🌐 Focused on creating impactful and innovative software 
 🤝 Open for collaboration and exciting projects
 
 ## Connect with Me
@@ -10,10 +10,9 @@
 - StackOverflow: [fabi.s](https://stackoverflow.com/users/14813794/fabi-s)
 
 ## My Expertise
-- Languages: JavaScript, Python, C++, Java
-- Frameworks: React, Node.js, Express.js, React Native
-- Tools & Technologies: Git, Heroku, MongoDB, MySQL, PostgreSQL, TensorFlow, Selenium
-- Design & Development: Arduino, Blender, Bootstrap, Photoshop
+- Languages: TypeScript, Python
+- Frameworks: React, Node.js, Next.js
+- Tools & Technologies: Git, MongoDB, MySQL, PostgreSQL
 
 ![Fabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzcodeezzlife&show_icons=true&theme=radical)
 
